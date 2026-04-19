@@ -1,6 +1,6 @@
 cask "paniclock" do
-  version "1.0.9"
-  sha256 "b343973e34be471db57ae192689aa21e1dde20da54434fc406bfbd018d6ed515"
+  version "1.0.10"
+  sha256 "de1bef154686643cf55ae52a46a65e83cccb5a5eed714384493250a83cd4547c"
 
   url "https://github.com/paniclock/paniclock/releases/download/v#{version}/PanicLock.dmg"
   name "PanicLock"
